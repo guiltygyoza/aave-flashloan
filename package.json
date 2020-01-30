@@ -1,0 +1,18 @@
+{
+  "name": "aave-test",
+  "version": "0.0.1",
+  "engines": {
+    "node": "11.6.x",
+    "npm": "6.5.x"
+  },
+  "devDependencies": {
+    "truffle": "^5.1.10"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^2.4.0",
+    "@truffle/hdwallet-provider": "^1.0.29",
+    "core-js": "^3.6.4",
+    "openzeppelin-solidity": "^2.4.0",
+    "solc": "^0.6.2"
+  }
+}
